@@ -1,3 +1,7 @@
+# Editor droppings
+*.un~
+*.swp
+#
 # Compiled class file
 *.class
 
